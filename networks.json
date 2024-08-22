@@ -1,0 +1,55 @@
+{
+  "teknix": {
+    "EnsRegistry": {
+      "address": "0xF7A1EBF23de5CB6CbcebC5AFF05C857837b94d13",
+      "startBlock": 49019
+    },
+    "Resolver": {
+      "startBlock": 49064
+    },
+    "EthRegistrarController": {
+      "address": "0x56E710c04a3BDc68676D3157AB5BFCEc78a7597a",
+      "startBlock": 49057
+    },
+    "BaseRegistrar": {
+      "address": "0xd040b19764c71E7F39c6f30e399466009860Ff08",
+      "startBlock": 49021
+    },
+    "EvmtnRegistry": {
+      "address": "0xeAC74C814B38B18b4Ef5789D952307401d48c9A8",
+      "startBlock": 135036
+    },
+    "EvmtnResolver": {
+      "startBlock": 135081
+    },
+    "EVmtnRegistrarController": {
+      "address": "0x45cD10E6b48839bB2856A0f83FC8472edE1E4023",
+      "startBlock": 135074
+    },
+    "EvmtnBaseRegistrar": {
+      "address": "0x67153EEF1a8a3494042b4cd3EEf8E1813EDd2003",
+      "startBlock": 135038
+    },
+    "": ""
+  },
+  "goerli": {
+    "EnsRegistry": {
+      "address": "0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e",
+      "startBlock": 2086611
+    },
+    "Resolver": {
+      "startBlock": 43152
+    },
+    "EthRegistrarController": {
+      "address": "0xCc5e7dB10E65EED1BBD105359e7268aa660f6734",
+      "startBlock": 8649286
+    },
+    "BaseRegistrar": {
+      "address": "0x57f1887a8BF19b14fC0dF6Fd9B2acc9Af147eA85",
+      "startBlock": 2086621
+    },
+    "": ""
+  }
+}
+
+
